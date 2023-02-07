@@ -183,6 +183,8 @@
 
 ## 4._ Video
 
+  - https://youtu.be/rlbC4YCfBrA
+
 ## 5._ Conclusiones
 
   - Los inductores presentan varias formas de manufactura en relacion al uso que este destinado y siguiendo esto se pueden relacionar fuerzar en consideracion al realziar un analisis matematico sobre las fuerzas que interacutaran entre los inductores o se pueden omitir por su poca interaccion. 
