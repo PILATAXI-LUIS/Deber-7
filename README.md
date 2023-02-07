@@ -2,8 +2,15 @@
 
 ### Generales: 
 
-### Especificos: 
+  - Definir el concepto de inductor incluyendo sus diversas variantes. 
+  - Analisar los principios fisicos que interactuan alrededor de los inductores.
 
+### Especificos: 
+  
+  - Categorazar los diferentes tipos de inductores segun sus materiales de elvarocacion, implementiacion y polaridad. 
+  - Explicar los fenomenos que ocurren en un inductor cuando cruza corriente por este e integrar la relacion de campo magnetico, cargas electricas, materiales inductores, capacitancia, reactancia y nucleo del material. 
+  - Establecer mediante calculos matematicos la relacion entre las diversas fuerzas y reacciones de los inductores.
+  
 ## 2._ Marco teorico
 
 ![image](https://user-images.githubusercontent.com/116705680/216932642-ce3eaeaa-9840-495a-b97a-718c16367908.png)
@@ -177,6 +184,9 @@
 ## 4._ Video
 
 ## 5._ Conclusiones
+
+  - Los inductores presentan varias formas de manufactura en relacion al uso que este destinado y siguiendo esto se pueden relacionar fuerzar en consideracion al realziar un analisis matematico sobre las fuerzas que interacutaran entre los inductores o se pueden omitir por su poca interaccion. 
+  - Existen varias puntos al momento de utilizar un inductor en un circuito ya que gracias a sus caracteristicas electromagneticas de almacenamiento de energia en forma de campos magneticos se puede proporcionar energia a sistemas electricos alejados que no se encuentren en conexion directa con este. 
 
 ## 6._ Bibliografia
 
