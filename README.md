@@ -28,7 +28,7 @@
 ![image](https://user-images.githubusercontent.com/116705680/217142031-f4d3ee65-98a4-4a93-932f-b4cf5557d6a8.png)
 
 ## 3._ Ejercicios
-
+   
 2. Convierta los siguientes valores en microhenries: (a)  300 mH        (b) 0.08 H       (c) 5 mH        (d) 0.00045 mH
 
 ![image](https://user-images.githubusercontent.com/116705680/217175434-df9f60e8-c749-4441-8a74-7e7a304da3eb.png)
